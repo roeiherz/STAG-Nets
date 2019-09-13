@@ -3,6 +3,6 @@ Spatio-Temporal Action Graph Networks
 
 ## Introduction
 
-## Dataset & Benchmark
+## Dataset
 
 ## License
